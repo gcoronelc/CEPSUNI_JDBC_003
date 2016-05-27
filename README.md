@@ -1,13 +1,13 @@
-![Java CLIENTE-SERVIDOR](https://raw.githubusercontent.com/gcoronelc/SISTUNI_JAVA_JDBC_004/master/JavaCS004.png)
+![Java CLIENTE-SERVIDOR](https://github.com/gcoronelc/CEPSUNI_JDBC_003/blob/master/JavaCS003.png)
 
-# DESARROLLADOR DE APLICACIONES DE ESCRITORIO
+# JAVA CLIENTE SERVIDOR
 
-- Lugar: SistemasUNI
-- Horario: SABADOS de 3 pm a 9 pm
-- Inicio: 28-MAYO-2016
-- Dirección: https://goo.gl/maps/98vwAt9NZMU2
-- Contenido: http://www.sistemasuni.edu.pe/dcursos/javaescritorio.html
-- Página: http://gcoronelc.github.io/SISTUNI_JAVA_JDBC_004/
+- Lugar: CEPS-UNI
+- Horario: VIERNES de 2 pm a 6 pm
+- Inicio: 27-MAYO-2016
+- Dirección: https://goo.gl/maps/FvheiZsxDDy
+- Contenido: http://www.ceps.uni.edu.pe/doc_web/programas/programacion/des_apli_con_jdbc.html
+- Página: http://gcoronelc.github.io/CEPSUNI_JDBC_002/
 
 # DOCENTE
 
@@ -17,8 +17,8 @@
 
 # RECURSOS RECOMENDADOS
 
-- Programa: http://www.sistemasuni.edu.pe/dmodulos/JavaveloperCC.html
-- Contenido: http://www.sistemasuni.edu.pe/dcursos/javaescritorio.html
+- Programa: http://www.ceps.uni.edu.pe/doc_web/programas/modulos/programacion/modulo_java_developer_professional.html
+- Contenido: http://www.ceps.uni.edu.pe/doc_web/programas/programacion/des_apli_con_jdbc.html
 - Resumen Cliente-Servidor: http://gcoronelc.blogspot.pe/2013/06/resumen-seminario-java-cliente-servidor.html
 - Libros de Oracle: http://gcoronelc.blogspot.pe/2011/02/libros-de-oracle.html
 - Recursos de Java: http://gcoronelc.blogspot.pe/p/java.html
@@ -34,7 +34,7 @@
 
 # CLASE 01 
 
-- Fecha: 28-MAYO-2016
+- Fecha: 27-MAYO-2016
 - Revisado Git y GitHub
 - Instalar Oracle
 - Crear esquema Eureka
