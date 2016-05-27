@@ -1,4 +1,4 @@
-![Java CLIENTE-SERVIDOR](https://github.com/gcoronelc/CEPSUNI_JDBC_003/blob/master/JavaCS003.png)
+![Java CLIENTE-SERVIDOR](https://raw.githubusercontent.com/gcoronelc/CEPSUNI_JDBC_003/master/JavaCS003.png)
 
 # JAVA CLIENTE SERVIDOR
 
@@ -7,7 +7,7 @@
 - Inicio: 03-JUNIO-2016
 - Dirección: https://goo.gl/maps/FvheiZsxDDy
 - Contenido: http://www.ceps.uni.edu.pe/doc_web/programas/programacion/des_apli_con_jdbc.html
-- Página: http://gcoronelc.github.io/CEPSUNI_JDBC_002/
+- Página: http://gcoronelc.github.io/CEPSUNI_JDBC_003/
 
 # DOCENTE
 
