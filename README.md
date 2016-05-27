@@ -3,8 +3,8 @@
 # JAVA CLIENTE SERVIDOR
 
 - Lugar: CEPS-UNI
-- Horario: VIERNES de 2 pm a 6 pm
-- Inicio: 27-MAYO-2016
+- Horario: VIERNES de 6 pm a 10 pm
+- Inicio: 03-JUNIO-2016
 - Dirección: https://goo.gl/maps/FvheiZsxDDy
 - Contenido: http://www.ceps.uni.edu.pe/doc_web/programas/programacion/des_apli_con_jdbc.html
 - Página: http://gcoronelc.github.io/CEPSUNI_JDBC_002/
@@ -34,7 +34,7 @@
 
 # CLASE 01 
 
-- Fecha: 27-MAYO-2016
+- Fecha: 03-JUNIO-2016
 - Revisado Git y GitHub
 - Instalar Oracle
 - Crear esquema Eureka
